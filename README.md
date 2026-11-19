@@ -15,6 +15,7 @@ Files from Swami and Izzy's snowthrower key project: a parametric Craftsman snow
 | `f360.f3d file script.py` | The script used to generate the .f3d. |
 | `snowthrower Key Challenge.rtf` | The original challenge write-up. |
 | `Key(push,showthrower)(Izzy,FB) - FB CHAT.txt` | Messenger chat between Izzy and Swami about the files. |
+| `snowthrower-key-chat-dashboard.html` | Interactive breakdown of the chat: files, spec, parameter check, review findings, open questions and action items. Download it and double-click to open in any browser (works offline). |
 
 ## How to download
 
