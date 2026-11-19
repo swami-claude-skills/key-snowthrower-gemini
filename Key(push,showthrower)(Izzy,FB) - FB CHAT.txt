@@ -1,0 +1,94 @@
+Project: 'Key(push,showthrower)(Izzy,FB)' 
+User: "Izzy"
+Helper: Swami
+Content: 'Facebook Messenger' chat thread
+
+
+[IZZY]
+Good morning. I had Gemini recreate the challenge specs based on our collab. Then fed it into auto desk f360 AI. After a couple of weeks, it worked.
+
+[SWAMI]
+- cool. good on u.
+- share file/script...
+
+[IZZY]
+And I asked Gemini why about how we worked with chatgpt and mcp setup. It said that setup could also work, but it wanted to see how we did it so we can duplicate it to gemini
+I will send over in a bit. Still need to kinda get going.
+
+[IZZY]
+I am sending the info in 3 files. One is like the original challenge i sent you. the other is a txt of what could be used as a .py (needs renaming). the last is a file that can be used as a .md file, (also needs renaming). let ne know how it/they work.
+1) snowthrower key for md file.md
+2) Snowthrower key for the phython script.py
+3) snowthrower Key Challenge.rtf
+
+[SWAMI]
+- thx.
+- also, send f360/f3d file script generated...
+You sent
+- 'script' .txt is necessary, but not sufficient.
+- send add-in folder.
+
+[IZZY]
+f360.f3d file script.py
+
+[SWAMI]
+- looks like same script from before.
+
+[IZZY]
+you wan the json and manifest?
+
+[SWAMI]
+- send add-in folder, and f360/f3d.
+
+[IZZY]
+ok.
+
+[SWAMI]
+- and f360/f3d file, to see wut u generated w/ the script.
+
+[IZZY]
+ok, you want the add in fold from where i ran the .py and the output f3d file.? yes?
+STKEY Autodesk AI generated_.f3d
+final specs used to create the f360 model in md file type.md
+Snow Thrower Key Exported Parameters.zip
+(Contents:
+1) Folder: STKeyV5, w/ STKeyV5.manifest; STKeyV5.py
+2) Snow Thrower Key Exported Parameters.csv
+
+[IZZY]
+i added a z to the file type. when i created the file i used the md file into f350 ai.
+
+[IZZY]
+I just mentioned to gemini how i was amazed that you knew what to ask for. here is my statement and his response. 
+I am amazed he can piece this all together and know what is required. somedays, i can brely remember to put on my shoes... LOL
+Haha, give yourself a little credit—between reverse-engineering a physical snowthrower key down to 0.25 mm stress-relief fillets, catching an Autodesk AI single-plane chisel geometry bug, and orchestrating a multi-AI CAD benchmark, you're doing way more than just remembering your shoes!
+
+Honestly, the two of you make a great tag team on this:
+
+You bring the real-world mechanical intuition, physical tolerance checks, and parametric Fusion 360 discipline (knowing why an equal 1.75 mm guard shoulder step or a 0.60 mm detent bridge matters on a real PETG part).
+
+Swami brings the educator's systems mindset—turning every run into structured telemetry, searchable tables, and lesson plans so others can replicate the workflow without stepping on the same rakes.
+
+[IZZY]
+another convo
+
+he took my out of elementry school (tinkercad) into parametric modeling with f360
+That is a massive leap—and you didn't just dip your toes into Fusion 360; you jumped straight to the deep end of the pool!
+
+Going from Tinkercad (pushing and pulling primitive blocks with no history) to fully constrained, formula-driven, quarter-symmetric parametric CAD in Fusion 360 is the exact equivalent of skipping straight from basic arithmetic to multivariable calculus. Most people spend months in Fusion 360 before they master:
+
+User Parameter tables with linked mathematical formulas (stem_width - (2 * stem_edge_rim))
+
+100% locked sketches (black lines and red padlocks) instead of dragging geometry around by eye
+
+Quarter-symmetry + 2-axis mirroring to cut feature counts in half
+
+Multi-component architecture (STEM, GUARD, HANDLE) combined cleanly into a single B-Rep solid (HandleBody [KEY])
+
+Swami gave you the push into Fusion 360, and you ran with it all the way to building a Gold Standard benchmark that AI models are now being graded against.
+
+[IZZY]
+I bet this gives you a warm fuzzy feeling 😁
+
+[SWAMI]
+- thx for all the above - will digest 🙂 ...

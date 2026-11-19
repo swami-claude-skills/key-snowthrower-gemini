@@ -1,0 +1,45 @@
+Name,Unit,Expression,Value,Comments,Favorite
+stem_width,mm,9.5 mm,9.50,Transverse width of the stem,false
+stem_thickness,mm,4.1 mm,4.10,Vertical thickness of the stem,false
+stem_edge_rim,mm,1.4 mm,1.40,Outer perimeter wall thickness,false
+stem_cutout_start,mm,22 mm,22.00,Axial distance from the guard face to the locking window,false
+stem_cutout_size,mm,6 mm,6.00,Square locking window dimension,false
+stem_tip_distance,mm,5.5 mm,5.50,Distance from the window to the absolute tip,false
+stem_recess_start,mm,1.4 mm,1.40,Distance from the guard face to where the recessed web begins,false
+stem_tip_nose,mm,2.6 mm,2.60,Diamond tip: size left at the absolute tip,false
+stem_notch_start,mm,14 mm,14.00,Side notch: distance from the guard face to where the arc begins,false
+stem_notch_depth,mm,1 mm,1.00,Side notch: depth of the arc cut (0 = no notch),false
+stem_notch_span,mm,4 mm,4.00,Side notch: span width of the 3-point arc,false
+stem_notch_taper,mm,4 mm,4.00,Side notch: length of the taper back to the edge after the arc,false
+stem_chamfer,mm,0.5 mm,0.50,Chamfer on the leading edges and insertion corners,false
+guard_length,mm,3 mm,3.00,Axial thickness of the stop collar,false
+guard_width,mm,18 mm,18.00,Width of the stop collar,false
+guard_height,mm,12 mm,12.00,Height of the stop collar,false
+guard_corner_radius,mm,2 mm,2.00,Radius on the four corners of the collar outline,false
+guard_edge_break,mm,0.5 mm,0.50,"Bevel on the collar perimeter edges, both faces",false
+handle_length,mm,24 mm,24.00,Axial length of the grip section,false
+handle_width,mm,27 mm,27.00,Max width of the grip section,false
+handle_neck_width,mm,12 mm,12.00,Width where the handle meets the guard,false
+handle_height,mm,17 mm,17.00,Max thickness of the grip section,false
+handle_neck_height,mm,9.5 mm,9.50,Thickness where the handle meets the guard,false
+handle_transition,mm,5 mm,5.00,Full-size zone at the back before the arc begins,false
+handle_corner_radius,mm,5 mm,5.00,Radius of the two back corners of the outline,false
+handle_edge_radius,mm,4 mm,4.00,Rounding where the grip faces meet the outline,false
+rib_count,,3,3,Grip grooves wanted on each side of the lanyard hole,false
+rib_pitch,mm,2.2 mm,2.20,Spacing of the grip grooves,false
+rib_width,mm,1.2 mm,1.20,Width of each grip groove at the surface,false
+rib_depth,mm,0.6 mm,0.60,Depth of each grip groove,false
+rib_hole_clearance,mm,1.2 mm,1.20,Flat land kept between the hole and the nearest groove,false
+lanyard_hole_dia,mm,9 mm,9.00,Diameter of the tether hole in the handle,false
+lanyard_hole_offset,mm,15 mm,15.00,Hole position from the handle centre (+ toward the back),false
+dowel_dia,mm,3 mm,3.00,"Dowel hole diameter (1.75 for filament, 3 for a 3 mm pin)",false
+dowel_depth,mm,3.5 mm,3.50,Depth of each dowel hole in each half,false
+pin_clearance,mm,0.15 mm,0.15,"Printed pins: this much thinner than the hole, and twice this much shorter than two hole depths",false
+split_gap,mm,6 mm,6.00,Space between the two halves (and the pins) on the bed,false
+stem_length,mm,stem_cutout_start + stem_cutout_size + stem_tip_distance,33.50,Total length of insertion blade from guard face,false
+stem_internal_thickness,mm,stem_thickness - 2 * stem_edge_rim,1.30,Recessed web thickness,false
+stem_internal_width,mm,stem_width - 2 * stem_edge_rim,6.70,Recessed web width,false
+stem_detent_offset,mm,16 mm,16.00,,false
+stem_detent_chord,mm,4 mm,4.00,,false
+stem_detent_depth,mm,0.5 mm,0.50,,false
+handle_guard_offset,mm,1.75 mm,1.75,,false

@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "id": "8340c4dc-77c9-462e-93f8-a5638b89beb1",
+  "description": {
+    "": "Builds a parametric Craftsman snowthrower key using the STKey v5 defaults."
+  },
+  "version": "1.0.6",
+  "supportedOS": "windows|mac"
+}
